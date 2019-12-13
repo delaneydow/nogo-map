@@ -1,0 +1,43 @@
+Data that is monitored in App:
+Name
+Location (look into how the GoogleMaps API stores/tracks location in app setting)
+Time Spent in Location (hours)
+Mode: Work or Play
+Marked Favorites (see how Google Maps API would store these locations)
+
+
+Delaney Dow
+xxxxx --> Mugar Memorial Library
+3
+Work
+Questrom Starbucks, Trader Joe's (Boylston Location)
+
+
+Will Carson
+xxxx --> Nickerson Field
+2
+Play
+Fitrec, T. Anthony's pizzeria
+
+Isabelle Goode
+xxx --> StuVi2
+5
+Play
+George Sherman Union, Fitrec, Pavement Coffeehouse
+
+Douglas Densmore
+xxx --> Boston University Photonics Center
+2
+Work
+Pavement Coffeehouse, Photonics Center
+
+Emma Billodeau
+xxxx --> StuVi2
+1
+Play
+Baystate Underground, Pavement Coffeehouse, Buffalo Exchange
+
+
+
+
+

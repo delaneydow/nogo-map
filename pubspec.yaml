@@ -1,0 +1,45 @@
+# remember that indentation indicates a parent and a child
+name: NoGo
+description: Application developed for EC327 final project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  google_maps_flutter: ^0.5.7 #used packages_get on this feature
+  google_maps_webservice: ^0.0.13 #webservice to enable information about each location
+  cloud_firestore: ^0.9.13+1 #firestore plugin
+  geolocator: ^5.1.5 #geolocator function enabled
+  css_colors:
+
+  flutter:
+    sdk: flutter #ex: sdk is a child of flutter
+
+
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+
+
+# specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #  - images/a_dot_burr.jpeg
+  #  - images/a_dot_ham.jpeg
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
